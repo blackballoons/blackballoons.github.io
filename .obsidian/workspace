@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "9499faa127bede16",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d5cc2878801bd4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-12-31.md",
+            "mode": "source"
+          }
+        },
+        "group": "faa31ac4f3c90538"
+      },
+      {
+        "id": "c06944ed890017de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-12-31.md",
+            "mode": "source"
+          }
+        },
+        "group": "faa31ac4f3c90538"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "215496db229a4c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcf044f390b28c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b70065ecb78d181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c282bb1acb604628",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03c0349340cb29b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8da5841adf855f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d5c655afb172792",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-12-31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-12-31.md",
+    "I think this is the future/Magic balls.md",
+    "Untitled.md",
+    "Index.md",
+    "I think this is the future/More.md",
+    "I think this is the future/WhoamI.md",
+    "Mulled/Si.md",
+    "Mulled/Mulled wino anonymous.md",
+    "2020-12-30.md",
+    "Journal/2020-12-30.md"
+  ]
+}

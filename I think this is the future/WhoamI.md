@@ -1,0 +1,19 @@
+# who am I ?
+I am not 
+- a politician
+- a nurse
+- a dog
+
+It took me YEARS to figure out that I am none of the above, ~~so you don't have to.~~ You are welcome. 
+
+# more clues
+
+I like reading the back of packaging materials. 
+I save leaflets from travel attractions for bedtime reading. 
+One of my greatest joy when little was rummaging through the drawers of relative we were visiting.
+
+# what happened? 
+I was only trying to help, but that dog was a bitch.  
+
+
+
