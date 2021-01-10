@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d5cc2878801bd4",
+        "id": "c06944ed890017de",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leopard and the Red.md",
+            "file": "_posts/2019-04-18-welcome-to-jekyll.md",
             "mode": "source"
           }
-        },
-        "group": "faa31ac4f3c90538"
-      },
-      {
-        "id": "c06944ed890017de",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Leopard and the Red.md",
-            "mode": "source"
-          }
-        },
-        "group": "faa31ac4f3c90538"
+        }
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291
   },
   "right": {
     "id": "03c0349340cb29b2",
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leopard and the Red.md",
+                "file": "_posts/2019-04-18-welcome-to-jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2019-04-18-welcome-to-jekyll.md",
+    "Scram scrurry and other s words.md",
+    "Another But Continues.md",
+    "_posts/2010-01-07-post-modified.md",
+    "2020-12-31.md",
     "Leopard and the Red.md",
     "Untitled.md",
     "I think this is the future/Characters.md",
-    "2020-12-31.md",
-    "Another But Continues.md",
     "I think this is the future/Algorithm + Data Strcture = Programs.md",
-    "I think this is the future/Magic balls.md",
-    "Index.md",
-    "I think this is the future/More.md",
-    "I think this is the future/WhoamI.md"
+    "I think this is the future/Magic balls.md"
   ]
 }
