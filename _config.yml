@@ -16,11 +16,11 @@
 
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-title: RUNLEARN
+title: Is stilton a good dog name?
 email: contact@ajin.im
 description: >- # this means to ignore newlines until "baseurl:"
-  My thoughts tends to fester if I don't air them now and then. So this blog is to keep demon or doctor away. 
-twitter_username: runlearnreadwrite
+  Thoughts tends to fester if you don't air them now and then. This blog is therefore made for medical purposes. 
+twitter_username: 
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ajin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I was borned in a day where sky supposed to have opened."
+  bio    : "I was borned in a day when the sky supposed to have split."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
