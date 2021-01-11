@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leopard and the Red.md",
+            "file": "Scram, Scrurry, and Stilton.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leopard and the Red.md",
+                "file": "Scram, Scrurry, and Stilton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Scram, Scrurry, and Stilton.md",
+    "Untitled.md",
     "Leopard and the Red.md",
+    "Aphra.md",
+    "Another But Continues.md",
+    "The Lost Week.md",
+    "Stilton.md",
+    "Scram scrurry and other s words.md",
     "Mulled/Mulled wino anonymous.md",
-    "I think this is the future/Characters.md",
-    "I think this is the future/WhoamI.md",
-    "I think this is the future/Magic balls.md",
-    "I think this is the future/More.md",
-    "_posts/2010-03-07-post-link.md",
-    "I think this is the future/Algorithm + Data Strcture = Programs.md",
-    "_posts/2019-04-18-welcome-to-jekyll.md",
-    "Scram scrurry and other s words.md"
+    "I think this is the future/Characters.md"
   ]
 }
