@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-title: Is Stilton a Good Dog Name?
+title: Propaganda for Myself
 email: contact@ajin.im
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts tends to fester if you don't air them now and then. This blog is therefore made for medical purposes. 
-twitter_username: 
-minimal_mistakes_skin: default
+  Thoughts tends to fester if you don't air them.
+  I'm airing my thoughts here so it wouldn't stink up the house.
+twitter_username:
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Ajin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I was borned in a day when the sky supposed to have split."
+  bio    : "I got born. I had had. But I've never stop complaining."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
