@@ -60,6 +60,7 @@ plugins:
 
 author:
   name   : "Ajin"
+  avatar : : "/assets/images/20181027_Deathmask_Frog.jpg"
   bio    : "I got born. I had had. But I've never stop complaining."
   links:
     - label: "Website"
