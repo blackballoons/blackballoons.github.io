@@ -63,12 +63,9 @@ author:
   avatar : : "/assets/images/20181027_Deathmask_Frog.jpg"
   bio    : "I got born. I had had. But I've never stop complaining."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://mobile.twitter.com/poppypetalmask/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
