@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Today and I
 categories:
   - blog
 tags:
-  -journal
-  -talk-to-the-head
+  - journal
+  - talk-to-the-head
 date: '2021-01-15 16:40'
 ---
 
