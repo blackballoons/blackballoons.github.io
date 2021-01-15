@@ -1,5 +1,4 @@
 ---
-layout: post
 title: talking to the birds and my self
 categories:
   - blog
