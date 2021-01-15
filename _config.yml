@@ -61,7 +61,6 @@ author:
   name   : "Ajin"
   avatar : "/assets/images/20181027_Deathmask_Frog.jpg"
   bio    : "never stop complaining."
-  email : contact@ajin.im
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
