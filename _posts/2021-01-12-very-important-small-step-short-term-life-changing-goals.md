@@ -4,11 +4,11 @@ categories:
   - blog
 tags:
   - journal
-  - talk-to-the-head
+  - thoughts
 
 ---
 
-My extremly important, life changing, bit-by-bit, small-steps-build-empire, when-you-are-in-hell-keep-walking
+My extremely important, life changing, bit-by-bit, small-steps-build-empire, when-you-are-in-hell-keep-walking
 goals of this week (from Jan 15th to Jan 22th) are
 
 1. get my fitness back

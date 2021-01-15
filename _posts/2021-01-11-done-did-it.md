@@ -4,6 +4,6 @@ categories:
   - blog
 tags:
   - journal
-  - regrets
+  - thoughts
 ---
-Day started with eggs with unhealthy does of regrets intead of a run. Tomorrow I will focus on the future and the now instead of mulling and dulling the past and the present. 
+Day started with eggs with unhealthy does of regrets instead of a run. Tomorrow I will focus on the future and the now instead of mulling and dulling the past and the present.
