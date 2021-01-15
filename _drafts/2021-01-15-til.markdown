@@ -12,7 +12,7 @@ date: '2021-01-15 16:40'
 
 - wrote: short snippets on twitter.
 
-- research({% post_url 2021-01-12-very-important-small-step-short-term-life-changing-goals %}):
+- research:
 1. newsletter scene
    checked out substack but it is not for making a living.
 2. birding community. Korean birding, birding tour scene.
