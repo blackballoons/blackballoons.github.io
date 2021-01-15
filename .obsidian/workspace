@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-01-03-aphra.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-01-03-aphra.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "_posts/2021-01-03-aphra.md",
     "Mulled/The Lost Week.md",
     "Mulled/Stilton.md",
@@ -94,7 +95,6 @@
     "Mulled/Scram, Scrurry, and Stilton.md",
     "Mulled/Leopard and the Red.md",
     "Mulled/Magic balls.md",
-    "Mulled/Characters.md",
-    "Scram, Scrurry, and Stilton.md"
+    "Mulled/Characters.md"
   ]
 }
