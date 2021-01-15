@@ -62,16 +62,16 @@ author:
   name   : "Ajin"
   avatar : "/assets/images/20181027_Deathmask_Frog.jpg"
   bio    : "I got born. I had had. But I've never stop complaining."
+  location : "mostly Seoul, South Korea unless trying to not be in England and failing."
+  email : contact@ajin.im
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+     url: "mailto:contact@ajin.im"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://mobile.twitter.com/poppypetalmask/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:

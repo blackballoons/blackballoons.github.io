@@ -1,11 +1,15 @@
 ---
 layout: post
-title: Split Pt. 1
+title: "Split Pt. 1"
+categories:
+  - blog
+tags:
+  - flash
 date: '2021-01-13 15:19'
 ---
 
  I remember hiding behind the reefs to eavesdrop on what other mermaids were saying about the disease. Although any one of us could catch it, I didn't feel confident enough to worry with others. But the general dread was palpable like the current of the ocean.
 
-From friend of friend whose cousin grew legs after coming back from Pacific, it took only a week where it was one of MY cousin, then one of my friend, until it became our family members who started to feel sick. We didn't know what to do. It ws difficult enough with human did to our sea. First they closed what they call 'the border' then they brought the disease to make us look like them. 
+From friend of friend whose cousin grew legs after coming back from Pacific, it took only a week where it was one of MY cousin, then one of my friend, until it became our family members who started to feel sick. We didn't know what to do. It ws difficult enough with human did to our sea. First they closed what they call 'the border' then they brought the disease to make us look like them.
 
 At first, we thought it so ridiculous we didn't know how to react. Most of us just laughed and made fun of their 'schemes'. The idea that you could divide the water and call it 'border' was too ridiculous to even speak of.

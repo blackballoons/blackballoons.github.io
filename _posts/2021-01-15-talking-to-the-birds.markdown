@@ -1,6 +1,12 @@
 ---
 layout: post
 title: talking to the birds and my self
+categories:
+  - blog
+tags:
+  - journal
+  - talk-to-the-head
+  - flash
 date: '2021-01-15 11:17'
 ---
 

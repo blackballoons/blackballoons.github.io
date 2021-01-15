@@ -1,7 +1,7 @@
 ---
 title: "Done did it."
 categories:
-  - Blog
+  - blog
 tags:
   - journal
   - regrets
