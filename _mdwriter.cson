@@ -55,12 +55,15 @@ frontMatter: """
 ---
 layout: "{layout}"
 title: "{title}"
+categories:
+  - blog
+tags:
 date: "{date}"
 ---
 """
 
 # File extension of posts/drafts
-fileExtension: ".markdown"
+fileExtension: ".md"
 # File slug separator
 slugSeparator: "-"
 
