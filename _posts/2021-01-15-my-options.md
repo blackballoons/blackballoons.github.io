@@ -8,28 +8,28 @@ tags:
 date: '2021-01-15 17:50'
 ---
 
-though the journey not all rosy  
-many months gone already  
-all I have to show is  
-precious few, meaning none  
-
-
+though the journey not rosy  
+many months passed per custom (no discount)  
 reading-up or lounging  
 running or binging  
-nothing much except the world in misery  
-
-desperate and lazy such sinful combination  
-same options but older  
-harried, jagged and bare  
+nothing changed except  
+the world still in misery  
 
 
-working for company  
+desperate and lazy  
+such sinful combination  
+precious few, meaning none  
+is all I have to show for  
+
+dreadful to crawl back  
+to same escape hatches   
+harried, jagged and cowered  
+working for a company  
 (remote or otherwise)  
 copy writing or translating  
-making up words in broad daylight  
+making up non-meaning in broad daylight  
 
-
-giving myself more days  
-a questionable notion  
-but hope to make options  
-because waiting for Godot is not a solution  
+just hoping to make options   
+pretty questionable notion    
+because waiting for Godot  
+(who would have known) is not a solution  
