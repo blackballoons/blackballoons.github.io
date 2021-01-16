@@ -23,7 +23,7 @@ siteLocalDir: ""
 # Directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # Directory to posts from siteLocalDir
-sitePostsDir: "_posts/{year}/"
+sitePostsDir: "_posts/"
 # Directory to images from siteLocalDir
 # - E.g. to use the current filename directory, can use {directory}
 siteImagesDir: "images/{year}/{month}/"
@@ -53,7 +53,6 @@ frontMatterDate: "{year}-{month}-{day} {hour}:{minute}"
 # Front matter template
 frontMatter: """
 ---
-layout: "{layout}"
 title: "{title}"
 categories:
   - blog
