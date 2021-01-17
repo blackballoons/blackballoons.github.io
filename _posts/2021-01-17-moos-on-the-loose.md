@@ -15,6 +15,6 @@ loose joints, no knees
 tamed and misunderstood by men  
 
 
-call me elk call javorszarvas
+call me elk call me javorszarvas  
 if my meat tastes melancholy
-that's because I've drunk sour berries
+that's because I've drunken sour berries
