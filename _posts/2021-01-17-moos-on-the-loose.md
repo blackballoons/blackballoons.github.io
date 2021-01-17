@@ -17,4 +17,4 @@ tamed and misunderstood by men
 
 call me elk call me javorszarvas  
 if my meat tastes melancholy  
-that's because I've drunken sour berries
+that's because I've had too many sour berries
