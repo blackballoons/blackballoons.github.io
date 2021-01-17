@@ -1,5 +1,5 @@
 ---
-title: "all important: this week's life changing, small step, familiar goals"
+title: "This week's life changing, small step, familiar goals"
 categories:
   - blog
 tags:
@@ -8,12 +8,12 @@ tags:
 
 ---
 
-My extremely important, life changing, bit-by-bit, small-steps-build-empire, when-you-are-in-hell-keep-walking
+My extremely important, life changing, Rome-wasn't-built-in-a-day, or-is-it-a-tipping-point, when-you-are-in-hell-keep-walking, if-you-don't-love-yourself-how-the-hell-do-you-love-somebody-else-etc.
 goals of this week (from Jan 15th to Jan 22th) are
 
 1. get my fitness back
 2. decide how I'm gonna make living
 
-good stuff. I need to execute that's what's most important.
+good stuff. ALL I need to do is execute.
 
-good talk.
+good talk. good luck. sayonara.
