@@ -24,7 +24,7 @@ even the journey not rosy
 time passes per custom (no discount)      
 
 
-reading-up or lounging  
+reading or lounging  
 running or binging  
 no forward movement   
 the world mired in misery  
