@@ -9,14 +9,14 @@ tags:
 date: "2021-01-18 09:08"
 ---
 
-a bag of dead of pigeon  
+a bag of dead pigeon  
 is worse than spilled milk  
 
 fuel the engine with regrets  
 you would travel backward
 
 marinate in dirty milk      
-the future tastes sour and bitter  
+for sour and bitter future  
 
 sing could've should've would've   
-but the pigeon is rotting  
+while the pigeon rots further
