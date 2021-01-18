@@ -1,5 +1,5 @@
 ---
-title: Moos on the Loose
+title: Moose on the Loose
 categories:
   - blog
 tags:
@@ -11,7 +11,7 @@ Moose on the loose
 driven by the nature to booze
 
 
-tamed and misunderstood
+tamed and misunderstood  
 loose joints, no knees  
 
 
