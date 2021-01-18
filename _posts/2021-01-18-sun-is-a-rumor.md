@@ -13,7 +13,7 @@ where the sun is a rumor
 and the sky corpse colour  
 
 
-a soothsayer might say  
+a soothsayer once said  
 imagine there's no people  
 a tall order for the spirit expired   
 

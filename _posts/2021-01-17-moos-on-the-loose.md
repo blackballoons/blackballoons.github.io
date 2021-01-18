@@ -8,13 +8,13 @@ date: '2021-01-17 15:58'
 ---
 
 Moose on the loose  
-driven by nature to booze
+driven by the nature to booze
 
 
+tamed and misunderstood
 loose joints, no knees  
-tamed and misunderstood by men  
 
 
 call me elk call me javorszarvas  
 if my meat tastes melancholy  
-that's because I've had too many sour berries
+it's because I had too many sour berries
