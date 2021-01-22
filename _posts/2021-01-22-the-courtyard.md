@@ -7,9 +7,9 @@ tags:
 date: '2021-01-22 14:45'
 ---
 
-My current aboard has large windows overlooking a courtyard with giant plain tree. The tree is an impressive specimen with over two hundreds years of history under its trunk. Little song birds love the fruits of the tree, and when there's sun after the rain; the branches turn into a gorgeous chandelier.  
+My current aboard has large windows overlooking a courtyard with a giant plain tree. The tree is an impressive specie with over two hundreds years of history under its trunk. Little song birds love the fruits of the tree, and when there's sun after the rain; the branches turn into a gorgeous chandelier.  
 In addition to the magnificent tree, the courtyard provides constant stream of people to watch as well. I feel no compunction about watching people over the window except when someone looks up to see me looking over, which gives me a jolt of self-awareness.  
-There is less traffic now with lock-down going on, but since my lodging is so close to Bath Abbey (another magnificent specimen) there are still people and dogs gracing the courtyard.
+There is less traffic now with the lock-down going on, but since my lodging is so close to Bath Abbey (another magnificent one) there are still people and dogs gracing the courtyard.
 
 Watching people, I found, is a meditative activity. I notice more about where my thoughts are headed by the narratives I came up about people I'm watching. Sometimes the most ordinary scene impresses me. Like the following tableau.
 > A father and son walking. The son running to the tree. The father calling the boy's name. The son running back towards him.
