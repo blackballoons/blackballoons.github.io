@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "_drafts/what-about-the-green-shop.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d93bd50ce4441e62"
+      },
+      {
+        "id": "502683b63d927def",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/what-about-the-green-shop.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d93bd50ce4441e62"
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "_drafts/what-about-the-green-shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_drafts/what-about-the-green-shop.md",
+    "Post Template.md",
+    "jekyll post examples/2010-01-07-post-standard.md",
     "Untitled.md",
     "_posts/2021-01-03-aphra.md",
     "Mulled/The Lost Week.md",
     "Mulled/Stilton.md",
     "Mulled/Mulled wino anonymous.md",
     "Mulled/Si.md",
-    "Mulled/Scram, Scrurry, and Stilton.md",
-    "Mulled/Leopard and the Red.md",
-    "Mulled/Magic balls.md",
-    "Mulled/Characters.md"
+    "Mulled/Scram, Scrurry, and Stilton.md"
   ]
 }
