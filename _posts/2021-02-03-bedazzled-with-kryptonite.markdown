@@ -4,7 +4,7 @@ categories:
   - journal
 tags:
   - thoughts
-date: "2021-02-03 16:55"
+date: "2021-02-03 17:30:16 +0000"
 ---
 
 I was about to solipsize about how crystallized ginger is my kryptonite. Then I realized  I'd already given the title to mint humbug. Also.. didn't I said something similar about Lindor 70% dark chocolate? as well as ginger bread, mince pie, chocolate pudding...
