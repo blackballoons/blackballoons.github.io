@@ -16,7 +16,7 @@ date: '2021-01-15 11:17'
   Jonathan flew over without stopping to say hello.
   "Did he read that post I wrote about seagulls and their culture of deviancy?"
   It's unfair because there is no way I could have known his family was mentioned in the quotes.
-  I feel(I'm sure he knows this too) that there is a huge difference between snub with a beak and slap on the wing; and this time, Jonathan was flying straight over that line.
+  I feel(I'm sure he knows this too) that there is a huge difference between beaky snub and wing slap; and this time, Jonathan was flying straight over that line.
 
 
 ### Artificial Kind

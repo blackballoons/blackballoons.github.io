@@ -1,5 +1,5 @@
 ---
-title: "what about the green shop"
+title: "Mystery of the Green Shop"
 categories:
   - blog
   - flash

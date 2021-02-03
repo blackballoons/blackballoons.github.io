@@ -24,6 +24,5 @@ nary a soul died on this soil coughing
 
 
 without mask without care  
-have pickled brain with sour snout  
 with hatred baked in resentment  
 I feel right at home biding for escape    
