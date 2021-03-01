@@ -6,7 +6,7 @@ categories:
 tags:
 date: "2021-02-03 09:35"
 ---
-Oh there you are ,my dear. I have something to tell you. There is a mystery afoot in our courtyard.  
+Oh there you are, dear. I have something to tell you. There is a mystery afoot in our courtyard.  
 Do you see that green shop?  
 
  *What do you mean what do I mean by the green shop? Look out the window, there is only one green shop.  No, I'm not angry; and this IS my normal volume. Anyway that is not the point. Yes! I am doing an accent. Yes, I was trying to do a bit. And you've ruined it. No, drop it. It's gone now. you always do this.... OK, I'm doing it now. Commencing a bit...*  
