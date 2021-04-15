@@ -2,7 +2,7 @@
 title: Funny or a Bummer
 categories:
   - blog
-tags: null
+tags: translation
 date: '2021-04-16 08:41'
 ---
 ![strong drug control](/assets/images/20210416_073702.jpg)  
