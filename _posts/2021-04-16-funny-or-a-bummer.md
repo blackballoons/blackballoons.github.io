@@ -5,6 +5,7 @@ categories:
 tags: null
 date: '2021-04-16 08:41'
 ---
+![strong drug control](/assets/images/20210416_073702.jpg)  
 
 Let me explain for my people. the word 약 (pronounced Yak) within the phrase 강**약**조절 is a homonym that means either medication or weak. It is one of many Korean words with roots in Chinese vocabs (the traditional Chinese letter is 藥, pronounced yào). And I'm guessing but the bike maker must meant to say Weak instead of Drug in this case; but Google translate for its infinite wisdom pulled a fast one on them, and yes, it's a good one. However, what isn't quite funny is that better translation isn't *strong weak control* in the first place. Maybe power control or difficulty control would do so they can indicate Easy to Difficult.
 
