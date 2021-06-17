@@ -13,9 +13,9 @@ where the sun is a rumor
 and the sky corpse colour  
 
 
-a soothsayer once said  
-imagine there's no people  
-a tall order for the spirit expired   
+once said a soothsayer  
+imagine there's no people
+(a tall order for the spirit expired)   
 
 
 In this great land of the past    
