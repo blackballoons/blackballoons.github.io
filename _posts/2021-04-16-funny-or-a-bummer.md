@@ -15,5 +15,5 @@ the word 약 (pronounced Yak) in the phrase 강**약**조절 is a homonym that m
 Let me pontificate (please let me), language is borne of culture and culture is borne of many sub cultures. When you translate, you are not just speaking the language of 'English speaking people'. That's *waaaayyy* too big of a group to speak to. You need to know your audience and what kind of language they speak in their group. In this case, it would be the language of exercise machine they should be speaking. I apologize for being a bummer pointing out the bigger translation issue instead of putting my time to good use and make a meme or two for this GT gold. But I think when someone decided that  
 1. it is a good idea to use GT   
 2. print out the mistake without checking  
-3. put it on thousands of product and send it to customer  
+3. put it on thousands of product and send it to customer   
 should know that this is not quite funny haha.
