@@ -14,7 +14,7 @@ and the sky corpse colour
 
 
 once said a soothsayer  
-imagine there's no people
+imagine there's no people  
 (a tall order for the spirit expired)   
 
 
